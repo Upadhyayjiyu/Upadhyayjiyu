@@ -1,4 +1,4 @@
-![logo](https://www.google.com/imgres?q=full%20screen%20banner%20for%20github%20account&imgurl=http%3A%2F%2Fwww.creative-tim.com%2Fblog%2Fcontent%2Fimages%2Fsize%2Fw960%2F2021%2F10%2FGithub-profile-1.jpg&imgrefurl=https%3A%2F%2Fwww.creative-tim.com%2Fblog%2Feducational-tech%2Fhow-to-create-github-profile%2F&docid=3C7iaZtvFeSxzM&tbnid=KajF-wMbo79N9M&vet=12ahUKEwjHzYWMwMKKAxX2XGwGHaitHgoQM3oECHEQAA..i&w=960&h=539&hcb=2&ved=2ahUKEwjHzYWMwMKKAxX2XGwGHaitHgoQM3oECHEQAA)
+
 <h1 align="center">Hi 👋, I'm Jyoti upadhyay</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s">
