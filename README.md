@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **full stack development,data science & machine learning course.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Upadhyayjiyu/Upadhyayjiyu](https://github.com/Upadhyayjiyu)
+- 👨‍💻 All of my projects are available at [https://github.com/Upadhyayjiyu/Upadhyayjiyu](https://github.com/Upadhyayjiyu/Portfolio-web.git).
 
 - ⚡ Fun fact **i like travelling & sketching**
 
