@@ -5,14 +5,11 @@
 
 ### Exploring Technology | Cybersecurity | Software Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Information+Security;Artificial+Intelligence+%26+Machine+Learning;Cloud+Computing+%26+Data+Science;Software+Development+%26+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Information+Security;Artificial+Intelligence+%26+Data+Science;Software+Development+%26+Innovation" alt="Typing SVG" />
 
 </div>
 
 <img align="right" alt="My original GitHub profile image" width="320" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s" />
-
-## 👩‍💻 About Me
-
 
 ## 👩‍💻 About Me
 
