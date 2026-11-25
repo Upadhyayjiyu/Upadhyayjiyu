@@ -9,7 +9,7 @@
 
 </div>
 
-<img align="right" alt="Professional woman working on a laptop" width="320" src="https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?auto=format&fit=crop&w=700&q=85" />
+<img align="right" alt="My original GitHub profile image" width="320" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPjeKg6m_g2Ntpf4QgwAo0iyRMqI41H8g25A&s" />
 
 ## 👩‍💻 About Me
 
@@ -63,7 +63,7 @@
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://vercel.com/upadhyayjiyus-projects" target="_blank">
-<img src="https://img.shields.io/badge/Vercel-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-Projects-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://github.com/Upadhyayjiyu/port-folio-webpage" target="_blank">
 <img src="https://img.shields.io/badge/Personal%20Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
