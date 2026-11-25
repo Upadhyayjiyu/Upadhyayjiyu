@@ -13,11 +13,11 @@
 
 ## 👩‍💻 About Me
 
-- Interested in **Cybersecurity and Information Security**.
-- Exploring **Artificial Intelligence and Machine Learning**.
-- Interested in **Cloud Computing and Data Science**.
-- Passionate about **Software Development and Web Technologies**.
-- Always learning and exploring emerging technologies.
+
+## 👩‍💻 About Me
+
+I am passionate about exploring emerging technologies and building practical solutions through continuous learning and innovation. My interests include cybersecurity,artificial intelligence, and software development. I focus on strengthening my technical knowledge and applying it to real-world challenges.
+
 
 <br clear="right"/>
 
